@@ -1,0 +1,6 @@
+The ISIC dataset is a collection of images used for skin cancer research. It's created by the International Skin Imaging Collaboration (ISIC), a group focused on reducing skin cancer deaths through digital imaging. The dataset includes thousands of labeled images of skin lesions, helping researchers develop computer-aided diagnosis tools for skin cancer. 
+
+Here is the dataset link. Access the drive and download the used sub-dataset(1). TO work with the full dataset download it from (2) it has a dataset of skin lesions that is released in different time periods and it has the complete full dataset.
+
+   (1)  https://drive.google.com/drive/folders/18xHSaZsJLxXfWTW_XXZ1cGw0dYsXdCcG?usp=sharing
+   (2)  https://www.isic-archive.com/
